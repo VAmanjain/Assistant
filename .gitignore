@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+llm-env/
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+chat_history.db
+
+# Chainlit specific
+.chainlit/
+chainlit.md
+
+# Logs and diagnostics
+*.log
+logs/
+*.pid
+*.seed
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Local development
+*.local
+*.bak
+*.tmp
+*.temp
+
+# Ollama models
+models/
+.ollama/
+
+# Chainlit assets
+assets/custom.css
+!assets/README.md
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Compression files
+*.gz
+*.zip
+*.tar
+*.tgz
+
+# Documentation
+_build/
+docs/_build/
