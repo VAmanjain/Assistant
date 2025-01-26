@@ -25,8 +25,8 @@ A 100% local, privacy-focused AI chatbot powered by **DeepSeek-R1**, **Ollama**,
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/personal-llm-chat.git
-cd personal-llm-chat
+git clone https://github.com/VAmanjain/Assistant
+cd Assistant
 ```
 
 
